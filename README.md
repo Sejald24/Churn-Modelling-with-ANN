@@ -1,1 +1,2 @@
-# Churn-Modelling-with-ANN and deployed using fastapi
+# Churn-Modelling-fastapi-deployed using streamlit
+
